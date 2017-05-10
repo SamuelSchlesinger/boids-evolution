@@ -1,0 +1,367 @@
+
+==================== FINAL INTERFACE ====================
+2017-05-10 05:43:41.479964 UTC
+
+interface boids-evolution-0.1.0.0-IqywTXClv50GJSs8XEU2IY:Lib 8002
+  interface hash: b97818282cc6181f8cc0520152e641ef
+  ABI hash: 5575aa1a96c795bc67225f967310cecd
+  export-list hash: c020b24a0cd9e075e41824fa3b5a6fe5
+  orphan hash: 693e9af84d3dfcc71e640e005bdc5e2e
+  flag hash: 191144089532c9daf19603ab22a89064
+  sig of: Nothing
+  used TH splices: True
+  where
+exports:
+  Lib.someFunc
+module dependencies:
+package dependencies: GLURaw-2.0.0.3@GLURaw-2.0.0.3-G12M6COyQIU5WfRlrIwPuj
+                      GLUT-2.7.0.12@GLUT-2.7.0.12-2MhssjvTvsoEqaoGvdwU4F
+                      ObjectName-1.1.0.1@ObjectName-1.1.0.1-EiFOWjUQWWuLyOhtrmuIWX
+                      OpenGL-3.0.2.0@OpenGL-3.0.2.0-4NExFyKSCLV2QLQh5nNNh9
+                      OpenGLRaw-3.2.4.0@OpenGLRaw-3.2.4.0-JDyGgOXR61GG549SwmWm2Q
+                      StateVar-1.1.0.4@StateVar-1.1.0.4-5dJbnTVECtEAhfJXPZKdbO
+                      adjunctions-4.3@adjunctions-4.3-4NsFv08p09OH79kZsQDVh1
+                      array-0.5.1.1@array-0.5.1.1 base-4.9.1.0
+                      base-orphans-0.5.4@base-orphans-0.5.4-ABoxiBf7nXc7Qqh66CgYc9
+                      bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT
+                      binary-0.8.3.0@binary-0.8.3.0
+                      bmp-1.2.6.3@bmp-1.2.6.3-43OLkH0uuwm831pBFpx2PZ
+                      bytes-0.15.3@bytes-0.15.3-7jT1oGwQgybKofgKzB5iem
+                      bytestring-0.10.8.1@bytestring-0.10.8.1
+                      cereal-0.5.4.0@cereal-0.5.4.0-BsAGxfp8yAs3CiRo2E875e
+                      comonad-5.0.1@comonad-5.0.1-7j4AeOMTFovFSFO9XMFm1
+                      containers-0.5.7.1@containers-0.5.7.1
+                      contravariant-1.4@contravariant-1.4-3UCY3arLvoG71jrGOYoc39
+                      deepseq-1.4.2.0@deepseq-1.4.2.0
+                      distributive-0.5.2@distributive-0.5.2-JCgfTXNR3ywAyV7fFWIBI5
+                      exceptions-0.8.3@exceptions-0.8.3-ADEDRATtUrMK1JW4zMQ9U
+                      fixed-0.2.1.1@fixed-0.2.1.1-8Jr82l0kss5Gr4nEevmXlZ
+                      free-4.12.4@free-4.12.4-GP8SJAzGfyq6UeKHSkzaha
+                      ghc-boot-th-8.0.2@ghc-boot-th-8.0.2 ghc-prim-0.5.0.0
+                      gloss-1.10.2.5@gloss-1.10.2.5-1rGgZyCKuRp8h5PVi74Lto
+                      gloss-rendering-1.10.3.5@gloss-rendering-1.10.3.5-EKeNZeVEJrFmXpvS80oLb
+                      half-0.2.2.3@half-0.2.2.3-GHJ372Ls7FBA3PAGtGHfOR
+                      hashable-1.2.6.0@hashable-1.2.6.0-3EXxoqeEgbfAKr6aGkye6x
+                      integer-gmp-1.0.0.1
+                      integer-logarithms-1.0.1@integer-logarithms-1.0.1-IEHCuEd5sG4JjSjlx7m5JF
+                      kan-extensions-5.0.1@kan-extensions-5.0.1-6ECbavVWkY3Cfj2gSieTjm
+                      lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR
+                      linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF
+                      mtl-2.2.1@mtl-2.2.1-BLKBelFsPB3BoFeSWSOYj6
+                      prelude-extras-0.4.0.3@prelude-extras-0.4.0.3-BhL9U5k7NtGJn1itwIHt2Y
+                      pretty-1.1.3.3@pretty-1.1.3.3
+                      primitive-0.6.1.0@primitive-0.6.1.0-6AbSTw9JXz141LE5p6LGH
+                      profunctors-5.2@profunctors-5.2-85ZLvwISeusLRZoJlitoyP
+                      reflection-2.1.2@reflection-2.1.2-Bem12O1xFGSHr4C2Hyu1c4
+                      scientific-0.3.4.12@scientific-0.3.4.12-J9HRl69dpDBBzAMKxlfkoh
+                      semigroupoids-5.1@semigroupoids-5.1-G6hp8hbTJmG326ffvAeaw8
+                      stm-2.4.4.1@stm-2.4.4.1-JQn4hNPyYjP5m9AcbI88Ve
+                      tagged-0.8.5@tagged-0.8.5-1mTloBSoUxv8dqUr8XBGBt
+                      template-haskell-2.11.1.0
+                      text-1.2.2.1@text-1.2.2.1-Ji7hMs2U4BkBwavd4taEVR
+                      time-1.6.0.1@time-1.6.0.1 transformers-0.5.2.0@transformers-0.5.2.0
+                      transformers-compat-0.5.1.4@transformers-compat-0.5.1.4-IuFogs8HAVUJBWVNMhtssu
+                      unordered-containers-0.2.8.0@unordered-containers-0.2.8.0-1XEErQCPPPc2SEtcHHNx9o
+                      vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG
+orphans: base-4.9.1.0:GHC.Base base-4.9.1.0:GHC.Float
+         binary-0.8.3.0@binary-0.8.3.0:Data.Binary.Generic
+         bytestring-0.10.8.1@bytestring-0.10.8.1:Data.ByteString.Builder
+         gloss-rendering-1.10.3.5@gloss-rendering-1.10.3.5-EKeNZeVEJrFmXpvS80oLb:Graphics.Gloss.Internals.Data.Picture
+         hashable-1.2.6.0@hashable-1.2.6.0-3EXxoqeEgbfAKr6aGkye6x:Data.Hashable.Generic
+         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.Instances
+         reflection-2.1.2@reflection-2.1.2-Bem12O1xFGSHr4C2Hyu1c4:Data.Reflection
+         stm-2.4.4.1@stm-2.4.4.1-JQn4hNPyYjP5m9AcbI88Ve:Control.Monad.STM
+         text-1.2.2.1@text-1.2.2.1-Ji7hMs2U4BkBwavd4taEVR:Data.Text
+         text-1.2.2.1@text-1.2.2.1-Ji7hMs2U4BkBwavd4taEVR:Data.Text.Lazy
+         text-1.2.2.1@text-1.2.2.1-Ji7hMs2U4BkBwavd4taEVR:Data.Text.Show
+         time-1.6.0.1@time-1.6.0.1:Data.Time.Calendar.Gregorian
+         time-1.6.0.1@time-1.6.0.1:Data.Time.Format.Parse
+         time-1.6.0.1@time-1.6.0.1:Data.Time.LocalTime.LocalTime
+         transformers-0.5.2.0@transformers-0.5.2.0:Control.Monad.Trans.Error
+         vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG:Data.Vector.Fusion.Bundle
+         vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG:Data.Vector.Unboxed
+family instance modules: adjunctions-4.3@adjunctions-4.3-4NsFv08p09OH79kZsQDVh1:Data.Functor.Rep
+                         base-4.9.1.0:Control.Applicative base-4.9.1.0:Data.Complex
+                         base-4.9.1.0:Data.Either base-4.9.1.0:Data.Functor.Compose
+                         base-4.9.1.0:Data.Functor.Const base-4.9.1.0:Data.Functor.Identity
+                         base-4.9.1.0:Data.Functor.Product base-4.9.1.0:Data.Functor.Sum
+                         base-4.9.1.0:Data.List.NonEmpty base-4.9.1.0:Data.Monoid
+                         base-4.9.1.0:Data.Semigroup base-4.9.1.0:Data.Type.Equality
+                         base-4.9.1.0:Data.Version base-4.9.1.0:Data.Void
+                         base-4.9.1.0:GHC.Exts base-4.9.1.0:GHC.Generics
+                         base-4.9.1.0:GHC.IO.Exception base-4.9.1.0:GHC.TypeLits
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Biff
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Clown
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Flip
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Join
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Joker
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Product
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Sum
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Tannen
+                         bifunctors-5.4.2@bifunctors-5.4.2-wt6HPG9UFgCjbd0zbVYNT:Data.Bifunctor.Wrapped
+                         bytes-0.15.3@bytes-0.15.3-7jT1oGwQgybKofgKzB5iem:Data.Bytes.Get
+                         bytes-0.15.3@bytes-0.15.3-7jT1oGwQgybKofgKzB5iem:Data.Bytes.Signed
+                         bytes-0.15.3@bytes-0.15.3-7jT1oGwQgybKofgKzB5iem:Data.Bytes.VarInt
+                         containers-0.5.7.1@containers-0.5.7.1:Data.IntMap.Base
+                         containers-0.5.7.1@containers-0.5.7.1:Data.IntSet.Base
+                         containers-0.5.7.1@containers-0.5.7.1:Data.Map.Base
+                         containers-0.5.7.1@containers-0.5.7.1:Data.Sequence
+                         containers-0.5.7.1@containers-0.5.7.1:Data.Set.Base
+                         ghc-boot-th-8.0.2@ghc-boot-th-8.0.2:GHC.LanguageExtensions.Type
+                         kan-extensions-5.0.1@kan-extensions-5.0.1-6ECbavVWkY3Cfj2gSieTjm:Data.Functor.Day
+                         kan-extensions-5.0.1@kan-extensions-5.0.1-6ECbavVWkY3Cfj2gSieTjm:Data.Functor.Yoneda
+                         lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.At
+                         lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Internal.Indexed
+                         lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Reified
+                         lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Tuple
+                         lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Wrapped
+                         lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Zoom
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.Plucker
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.Quaternion
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V0
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V1
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V2
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V3
+                         linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V4
+                         pretty-1.1.3.3@pretty-1.1.3.3:Text.PrettyPrint.Annotated.HughesPJ
+                         pretty-1.1.3.3@pretty-1.1.3.3:Text.PrettyPrint.HughesPJ
+                         primitive-0.6.1.0@primitive-0.6.1.0-6AbSTw9JXz141LE5p6LGH:Control.Monad.Primitive
+                         profunctors-5.2@profunctors-5.2-85ZLvwISeusLRZoJlitoyP:Data.Profunctor.Rep
+                         tagged-0.8.5@tagged-0.8.5-1mTloBSoUxv8dqUr8XBGBt:Data.Tagged
+                         template-haskell-2.11.1.0:Language.Haskell.TH.Syntax
+                         text-1.2.2.1@text-1.2.2.1-Ji7hMs2U4BkBwavd4taEVR:Data.Text
+                         text-1.2.2.1@text-1.2.2.1-Ji7hMs2U4BkBwavd4taEVR:Data.Text.Lazy
+                         unordered-containers-0.2.8.0@unordered-containers-0.2.8.0-1XEErQCPPPc2SEtcHHNx9o:Data.HashMap.Base
+                         unordered-containers-0.2.8.0@unordered-containers-0.2.8.0-1XEErQCPPPc2SEtcHHNx9o:Data.HashSet
+                         vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG:Data.Vector
+                         vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG:Data.Vector.Primitive
+                         vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG:Data.Vector.Storable
+                         vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG:Data.Vector.Unboxed
+                         vector-0.11.0.0@vector-0.11.0.0-LMwQhhnXj8U3T5Bm1JFxG:Data.Vector.Unboxed.Base
+import  -/  base-4.9.1.0:Data.Foldable 3e0b6967a1da89945d0e2d47266337a2
+import  -/  base-4.9.1.0:GHC.Base c4231c43c07e46080a26bf94094c7aa1
+import  -/  base-4.9.1.0:GHC.Float 33e2b9ffe427edd6a5c2fd6a3b26703c
+import  -/  base-4.9.1.0:GHC.List ab8c4e523e6c479c549d3bcd5fc4a439
+import  -/  base-4.9.1.0:GHC.Num 00bfaa7b2f9d6084913c0697a8a49ec8
+import  -/  base-4.9.1.0:GHC.Real 82e4e59051a13dba1da63e1e970a69e6
+import  -/  base-4.9.1.0:Prelude 22dd289b8469a8fa8dc81cab7b237771
+import  -/  ghc-prim-0.5.0.0:GHC.Classes 0bdf3d057a415ec1b84a7b1994efbe47
+import  -/  ghc-prim-0.5.0.0:GHC.Types 89f8de4f08018c9177c98d979eae0e45
+import  -/  gloss-1.10.2.5@gloss-1.10.2.5-1rGgZyCKuRp8h5PVi74Lto:Graphics.Gloss.Data.Color a76dd1d448c6566fb488bfc6543d7dda
+import  -/  gloss-1.10.2.5@gloss-1.10.2.5-1rGgZyCKuRp8h5PVi74Lto:Graphics.Gloss.Data.Display 845b99a5ad498a8b665b11ee63944230
+import  -/  gloss-1.10.2.5@gloss-1.10.2.5-1rGgZyCKuRp8h5PVi74Lto:Graphics.Gloss.Data.Picture 037a8c8fa69455daf7e6064b39a30042
+import  -/  gloss-1.10.2.5@gloss-1.10.2.5-1rGgZyCKuRp8h5PVi74Lto:Graphics.Gloss.Interface.Pure.Simulate d7faf649dad04f174914a6b008c19eff
+import  -/  lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens 019480fb44c77b7b6c7f62ba90d59ea4
+import  -/  lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Getter 8fcd8593dc63dae73cc4dfa25b2cb503
+import  -/  lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Setter eaa165559ab3cc1ef10d8494b18a76db
+import  -/  lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.TH ee36b0e2b3e5bb5248ffc4d4ca5e79c4
+import  -/  lens-4.15.1@lens-4.15.1-KnRHKhHsKR4Q0bIuDokQR:Control.Lens.Type f3907482a790b57d6c4ad272a384fec2
+import  -/  linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear 749690d624ad51ba3094f213dcced5bf
+import  -/  linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.Metric b0498ddb67ed9a2cca34bf734ab1bbf4
+import  -/  linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V1 7a200cde3f036573630421ca79978625
+import  -/  linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.V2 5ed4966a1b5b446ce697febf7a969a70
+import  -/  linear-1.20.6@linear-1.20.6-IIgDRQAovNA1slL0tzPvfF:Linear.Vector 15f2955da5f481ce25755e6bab4d5a1a
+532931f4daf21f69c48aa7c39acdc303
+  $tc'Boid :: GHC.Types.TyCon
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.TyCon
+                   14999252164378777697##
+                   17528454071594935893##
+                   Lib.$trModule
+                   Lib.$tc'Boid1) -}
+310bf0edeb854ab19b5cea10468c3b81
+  $tc'Boid1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS "'Boid"#) -}
+fe95e910ce581b1d5795563f5216c8d5
+  $tcBoid :: GHC.Types.TyCon
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.TyCon
+                   12147737315167323562##
+                   17723154283229791241##
+                   Lib.$trModule
+                   Lib.$tcBoid1) -}
+cd1ee44e58eae43cb1d29eea1312b75f
+  $tcBoid1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS "Boid"#) -}
+ff5f0377d7ddf00588e0463cedb4e847
+  $trModule :: GHC.Types.Module
+  {- HasNoCafRefs, Strictness: m,
+     Unfolding: (GHC.Types.Module Lib.$trModule2 Lib.$trModule1) -}
+5225411e13fa6162b8327fd29b550c5b
+  $trModule1 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS "Lib"#) -}
+d0ee02446e14d0553c6fed8dd260412b
+  $trModule2 :: GHC.Types.TrName
+  {- HasNoCafRefs, Strictness: m1,
+     Unfolding: (GHC.Types.TrNameS
+                   "boids-evolution-0.1.0.0-IqywTXClv50GJSs8XEU2IY"#) -}
+45b4e19a716fca921105501ecd42bd9f
+  data Boid
+    = Boid {_pos :: Linear.V2.V2 GHC.Types.Float,
+            _vel :: Linear.V2.V2 GHC.Types.Float,
+            _acc :: Linear.V2.V2 GHC.Types.Float,
+            _mass :: GHC.Types.Float,
+            _tag :: GHC.Types.Int}
+83fe1cfadb61418637b3092f748f2926
+  _acc :: Lib.Boid -> Linear.V2.V2 GHC.Types.Float
+  RecSel Left Lib.Boid
+  {- Arity: 1, HasNoCafRefs,
+     Strictness: <S(LLSLL),1*U(A,A,1*U(U,U),A,A)>m,
+     Unfolding: InlineRule (1, True, False)
+                (\ (ds :: Lib.Boid) ->
+                 case ds of wild { Lib.Boid ds1 ds2 ds3 ds4 ds5 -> ds3 }) -}
+0fd61a910546589d3797bded862283f1
+  _mass :: Lib.Boid -> GHC.Types.Float
+  RecSel Left Lib.Boid
+  {- Arity: 1, HasNoCafRefs,
+     Strictness: <S(LLLSL),1*U(A,A,A,1*U(U),A)>m,
+     Unfolding: InlineRule (1, True, False)
+                (\ (ds :: Lib.Boid) ->
+                 case ds of wild { Lib.Boid ds1 ds2 ds3 ds4 ds5 -> ds4 }) -}
+8596e47ef9f32a5ce3182426fa4b230f
+  _pos :: Lib.Boid -> Linear.V2.V2 GHC.Types.Float
+  RecSel Left Lib.Boid
+  {- Arity: 1, HasNoCafRefs,
+     Strictness: <S(SLLLL),1*U(1*U(U,U),A,A,A,A)>m,
+     Unfolding: InlineRule (1, True, False)
+                (\ (ds :: Lib.Boid) ->
+                 case ds of wild { Lib.Boid ds1 ds2 ds3 ds4 ds5 -> ds1 }) -}
+557b56ae60d393ae0fec439e01cdc7b8
+  _tag :: Lib.Boid -> GHC.Types.Int
+  RecSel Left Lib.Boid
+  {- Arity: 1, HasNoCafRefs,
+     Strictness: <S(LLLLS),1*U(A,A,A,A,1*U(U))>m,
+     Unfolding: InlineRule (1, True, False)
+                (\ (ds :: Lib.Boid) ->
+                 case ds of wild { Lib.Boid ds1 ds2 ds3 ds4 ds5 -> ds5 }) -}
+b0c909c78fcaf64bb1c977f58e31dfa3
+  _vel :: Lib.Boid -> Linear.V2.V2 GHC.Types.Float
+  RecSel Left Lib.Boid
+  {- Arity: 1, HasNoCafRefs,
+     Strictness: <S(LSLLL),1*U(A,1*U(U,U),A,A,A)>m,
+     Unfolding: InlineRule (1, True, False)
+                (\ (ds :: Lib.Boid) ->
+                 case ds of wild { Lib.Boid ds1 ds2 ds3 ds4 ds5 -> ds2 }) -}
+e05ad53ee1a9a09745d2447220d6db13
+  someFunc :: GHC.Types.IO ()
+  {- Arity: 1, Strictness: <S,U>,
+     Unfolding: InlineRule (0, True, True)
+                Lib.someFunc1 `cast` (Sym (GHC.Types.N:IO[0] <()>_R)) -}
+421997def3caa5aa666364d0bfd952b5
+  someFunc1 ::
+    GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, () #)
+  {- Arity: 1, Strictness: <S,U>,
+     Unfolding: (\ (eta :: GHC.Prim.State#
+                             GHC.Prim.RealWorld)[OneShot] ->
+                 case Graphics.Gloss.Internals.Interface.Simulate.simulateWithBackendIO1
+                        @ [Lib.Boid]
+                        @ Graphics.Gloss.Internals.Interface.Backend.GLUT.GLUTState
+                        Graphics.Gloss.Internals.Interface.Backend.GLUT.$fBackendGLUTState
+                        Graphics.Gloss.Internals.Interface.Backend.GLUT.$fBackendGLUTState_$cinitBackendState
+                        Lib.someFunc11
+                        Graphics.Gloss.Data.Color.white
+                        Lib.someFunc10
+                        Lib.someFunc5
+                        Lib.someFunc3
+                          `cast`
+                        (<[Lib.Boid]>_R
+                         ->_R Sym (GHC.Types.N:IO[0]
+                                       <Graphics.Gloss.Internals.Data.Picture.Picture>_R))
+                        Lib.someFunc2
+                          `cast`
+                        (<Graphics.Gloss.Data.ViewPort.ViewPort>_R
+                         ->_R <GHC.Types.Float>_R
+                         ->_R <[Lib.Boid]>_R
+                         ->_R Sym (GHC.Types.N:IO[0] <[Lib.Boid]>_R))
+                        eta of ds1 { (#,#) ipv ipv1 ->
+                 (# ipv, GHC.Tuple.() #) }) -}
+5acafe9bdca4e4a3f079e7ac84495d24
+  someFunc10 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 30#) -}
+9d938687e148cdadfee31e34cd6ea0ec
+  someFunc11 :: Graphics.Gloss.Data.Display.Display
+  {- Unfolding: (Graphics.Gloss.Data.Display.InWindow
+                   Lib.someFunc16
+                   Lib.someFunc14
+                   Lib.someFunc12) -}
+0164e9af04c42b6432fc6213707f899f
+  someFunc12 :: (GHC.Types.Int, GHC.Types.Int)
+  {- HasNoCafRefs, Unfolding: ((Lib.someFunc13, Lib.someFunc13)) -}
+0f99ca2600c7e11b0d9177386649d1e8
+  someFunc13 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 100#) -}
+c39b4038cd1b3d6677c5fb8fd433ac86
+  someFunc14 :: (GHC.Types.Int, GHC.Types.Int)
+  {- HasNoCafRefs, Unfolding: ((Lib.someFunc15, Lib.someFunc15)) -}
+fddca4c835d652ab6c0285e0dd8baddf
+  someFunc15 :: GHC.Types.Int
+  {- HasNoCafRefs, Unfolding: (GHC.Types.I# 500#) -}
+665217972fe9c8d1d0c5b6a9575e9d9d
+  someFunc16 :: [GHC.Types.Char]
+  {- Unfolding: (GHC.CString.unpackCString# "Boids Evolution"#) -}
+8bef0c08e7e06349eef7be062035eb6b
+  someFunc2 ::
+    Graphics.Gloss.Data.ViewPort.ViewPort
+    -> GHC.Types.Float
+    -> [Lib.Boid]
+    -> GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld, [Lib.Boid] #)
+  {- Arity: 4 -}
+341fa1ead98ff4994a94870fcb3323dd
+  someFunc3 ::
+    [Lib.Boid]
+    -> GHC.Prim.State# GHC.Prim.RealWorld
+    -> (# GHC.Prim.State# GHC.Prim.RealWorld,
+          Graphics.Gloss.Internals.Data.Picture.Picture #)
+  {- Arity: 2, HasNoCafRefs,
+     Unfolding: (\ (x :: [Lib.Boid])
+                   (s :: GHC.Prim.State# GHC.Prim.RealWorld)[OneShot] ->
+                 (# s,
+                    Graphics.Gloss.Internals.Data.Picture.Scale
+                      Lib.someFunc4
+                      Lib.someFunc4
+                      (Lib.someFunc_display x) #)) -}
+927ba60cd7740068634053966c2c34a1
+  someFunc4 :: GHC.Types.Float
+  {- HasNoCafRefs, Strictness: m, Unfolding: (GHC.Types.F# 500.0#) -}
+ce58cc0dba06a3e179d30597846bd5ae
+  someFunc5 :: [Lib.Boid]
+  {- Unfolding: (Lib.someFunc_go 0# Lib.someFunc6) -}
+c65159f53be47700ffb8741ba58abbbf
+  someFunc6 :: [GHC.Types.Float]
+  {- Unfolding: (GHC.Real.numericEnumFromThenTo
+                   @ GHC.Types.Float
+                   GHC.Classes.$fOrdFloat
+                   GHC.Float.$fFractionalFloat
+                   Lib.someFunc9
+                   Lib.someFunc8
+                   Lib.someFunc7) -}
+cc122e338b588221a53b0604f63b61b3
+  someFunc7 :: GHC.Types.Float
+  {- HasNoCafRefs, Unfolding: (GHC.Types.F# 1.0#) -}
+727bcffd68d223972fc07d83dd354189
+  someFunc8 :: GHC.Types.Float
+  {- HasNoCafRefs, Unfolding: (GHC.Types.F# -0.95#) -}
+e8572b66c03c9e88b779a7dd56a2d097
+  someFunc9 :: GHC.Types.Float
+  {- HasNoCafRefs, Unfolding: (GHC.Types.F# -1.0#) -}
+0b67d68aac2e77f0031e1d036a5b6881
+  someFunc_display ::
+    [Lib.Boid] -> Graphics.Gloss.Internals.Data.Picture.Picture
+  {- Arity: 1, HasNoCafRefs, Strictness: <S,1*U> -}
+83332d74907480045fd6e23f34f0fa4b
+  someFunc_go :: GHC.Prim.Int# -> [GHC.Types.Float] -> [Lib.Boid]
+  {- Arity: 2, Strictness: <L,U><S,1*U> -}
+vectorised variables:
+vectorised tycons:
+vectorised reused tycons:
+parallel variables:
+parallel tycons:
+trusted: none
+require own pkg trusted: False
+
